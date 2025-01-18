@@ -59,21 +59,21 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-*_Session Connected By Wasi Tech_*
+*_Session Connected By MrpasswordTz_*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『AMAZING YOU'VE CHOSEN WASI MD』*
+║ *『AMAZING YOU'VE CHOSEN Bongosec』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@wasitech1
-║❒ *Owner:* _https://wa.me/message/THZ3I25BYZM2E1_
-║❒ *Repo:* _https://github.com/wasixd/WASI-MD_
-║❒ *WaGroup:* _https://chat.whatsapp.com/FF6YuOZTAVB6Lu65cnY5BN_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j_
-║❒ *Plugins:* _https://github.com/Itxxwasi 
+║❒ *Ytube:* _youtube.com/@Bongosec
+║❒ *Owner:* _https://wa.me/message/4LCPZQQUEJCFI1_
+║❒ *Repo:* _https://github.com/MrpasswordTz/SessionGen_
+║❒ *WaGroup:* _https://chat.whatsapp.com/KSBRkjltMnr72hnZb0WI3f_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vb0hbtm8KMqcBV8T2Z2Y_
+║❒ *Plugins:* _https://github.com/bongosec
 ╚════════════════════════╝
 _____________________________________
 	
