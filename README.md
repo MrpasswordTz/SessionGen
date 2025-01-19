@@ -15,5 +15,3 @@
 [`ℹ️Contact Owner`](https://wa.me/255652181995)
 
 FORK THE REPOSITORY (Repo) 
-    <br>
-<a href="https://github.com/Mrpassword/SESSIONGEN"><img title="WEB" src="https://img.shields.io/badge/FORK Wasi-QR?color=black&style=for-the-badge&logo=stackshare"></a>
